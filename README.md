@@ -18,8 +18,4 @@ This App is for latest global & local news..
 
 4- go to the Client folder
 
->> cd src
->> 
->> cd app
-
 5- Run the angular app >> npm start
