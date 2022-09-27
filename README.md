@@ -20,4 +20,6 @@ This App is for latest global & local news..
 
 >>cd src
 >>cd app
+
+
 5- Run the angular app npm start
